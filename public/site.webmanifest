@@ -1,0 +1,21 @@
+{
+  "name": "Staff Wiser",
+  "short_name": "Staff Wiser",
+  "description": "Connecting businesses with skilled virtual professionals since 2018",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#E69395",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "start_url": "/"
+}
